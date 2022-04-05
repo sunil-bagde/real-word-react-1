@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-common-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.4.1",
+    "prettier": "^2.6.2",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "scripts": {
+    "start": "parcel src/index.html --open chrome"
+  },
+  "dependencies": {
+    "lodash.foreach": "^4.5.0",
+    "lodash.groupby": "^4.6.0",
+    "lodash.keys": "^4.2.0",
+    "yup": "^0.32.11"
+  }
+}
